@@ -1,0 +1,7 @@
+name = Coordinates Tamper
+description = This drupal module adds a new tamper plugin which allows to separate latitude and longitude values Useful if used together with Gelocation field module
+version = "7.x-1.0"
+core = "7.x"
+package = "Feeds"
+
+dependencies[] = feeds_tamper
