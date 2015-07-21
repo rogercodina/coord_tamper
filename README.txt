@@ -1,7 +1,7 @@
 Coordinates tamper
 ==================
 
-This drupal is useful when you have a feed source where you have latitude and
+This module is useful when you have a feed source where you have latitude and
 longitude on same field separated by a single comma. For example:
 
 45.23434,1.453243
